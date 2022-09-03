@@ -61,19 +61,17 @@ Instead of doing this:
       font-size: 18px;
       font-weight: 700;
       color: var(--Very-dark-desaturated-blue);
-      margin-bottom: 5px;
-}
-```
+      margin-bottom: 5px;}
+  ```
 
-I need to do this:
-```css
-footer p.number{
+  I need to do this:
+  ```css
+  footer p.number{
     font-size: 18px;
     font-weight: 700;
     color: var(--Very-dark-desaturated-blue);
-    margin-bottom: 5px;
-}
-```
+    margin-bottom: 5px;}
+  ```
 
 ### Continued development
 
