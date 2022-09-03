@@ -67,7 +67,7 @@ span{
 .footer{
     display: flex;
     justify-content: space-between;
-    border-top: .3px solid var(--Dark-gray);
+    border-top: solid var(--Dark-gray) 0.05px ;
     padding: 30px 50px 30px 50px;
     margin-top: 30px;
 }
